@@ -6,6 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+=======
+>>>>>>> 6427f2c6f2d2a572738430eb61c67e93e15ebcab
 	<classpathentry kind="output" path="bin"/>
 </classpath>
